@@ -1,4 +1,6 @@
 # comments in yaml file 
+# retrying after recrating the user
+# this is ignoring the comments
 sudo: required
 services:
   - docker
